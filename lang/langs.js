@@ -1,4 +1,5 @@
 var langs = {
+	'en_cy':'Vyrus0139 Remix',
 	'cs':'czech',
 	'de':'deutsch',
 	'el':'ελληνικά',
