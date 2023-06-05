@@ -2,20 +2,21 @@
 # Copyright (C) 2014 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # Eis <Eiskalt555@web.de>, 2014.
-#
+# 0.438596 <0.438596>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-29 06:39+0100\n"
-"PO-Revision-Date: 2021-11-29 08:05+0100\n"
-"Last-Translator: Tadeáš Cipro <santen@email.cz>\n"
+"PO-Revision-Date: 2023-03-22 08:40-0700\n"
+"Last-Translator: 0.438596 <0.438596>\n"
+"Language-Team: Cyrus\n"
 "Language: cs\n"
-"Language-Team: Czech\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: script/dropbox.js:62
@@ -235,7 +236,7 @@ msgstr "zhasnout."
 
 #: script/engine.js:165 script/engine.js:583
 msgid "hyper."
-msgstr "hyper."
+msgstr "hypertest."
 
 #: script/engine.js:171 script/space.js:464
 msgid "restart."
@@ -251,11 +252,11 @@ msgstr "uložit."
 
 #: script/engine.js:192
 msgid "dropbox."
-msgstr "Dropbox."
+msgstr "dropbox."
 
 #: script/engine.js:199
 msgid "github."
-msgstr "github."
+msgstr "this is a test."
 
 #: script/engine.js:299
 msgid "Export / Import"
@@ -370,7 +371,8 @@ msgid "Go Hyper?"
 msgstr "Zapnout Hyper režim?"
 
 #: script/engine.js:558
-msgid "turning hyper mode speeds up the game to x2 speed. do you want to do that?"
+msgid ""
+"turning hyper mode speeds up the game to x2 speed. do you want to do that?"
 msgstr "spuštění hyper režimu zrychlí hru na dvojnásobek. chcete pokračovat?"
 
 #: script/engine.js:581
@@ -897,11 +899,11 @@ msgstr "past"
 
 #: script/room.js:17
 msgid ""
-"builder says she can make traps to catch any creatures might still be "
-"alive out there"
+"builder says she can make traps to catch any creatures might still be alive "
+"out there"
 msgstr ""
-"stavitelka tvrdí, že zvládne sestrojit pasti na chytání stvoření, která "
-"se potulují v temnotě"
+"stavitelka tvrdí, že zvládne sestrojit pasti na chytání stvoření, která se "
+"potulují v temnotě"
 
 #: script/room.js:18
 msgid "more traps to catch more creatures"
@@ -961,8 +963,7 @@ msgstr "tržnice by vypomohla s obchodem"
 
 #: script/room.js:80
 msgid ""
-"now the nomads have a place to set up shop, they might stick around a "
-"while"
+"now the nomads have a place to set up shop, they might stick around a while"
 msgstr "teď, když mají kde postavit obchod, nomádi po nějaký čas pobudou"
 
 #: script/room.js:91
@@ -985,11 +986,10 @@ msgstr "udírna"
 
 #: script/room.js:109
 msgid ""
-"should cure the meat, or it'll spoil. builder says she can fix something "
-"up."
+"should cure the meat, or it'll spoil. builder says she can fix something up."
 msgstr ""
-"stavitelka tvrdí, že bychom měli maso udit, aby se nezkazilo. prý by "
-"věděla, jak na to."
+"stavitelka tvrdí, že bychom měli maso udit, aby se nezkazilo. prý by věděla, "
+"jak na to."
 
 #: script/room.js:110
 msgid "builder finishes the smokehouse. she looks hungry."
@@ -1016,8 +1016,7 @@ msgstr "ocelárna"
 #: script/room.js:140
 msgid "builder says the villagers could make steel, given the tools"
 msgstr ""
-"stavitelka tvrdí, že ví, jak vyrobit ocel. jen vybavení jí k tomu prý "
-"schází"
+"stavitelka tvrdí, že ví, jak vyrobit ocel. jen vybavení jí k tomu prý schází"
 
 #: script/room.js:141
 msgid "a haze falls over the village as the steelworks fires up"
@@ -1170,8 +1169,8 @@ msgstr "oheň {0}"
 
 #: script/room.js:600
 msgid ""
-"the stranger is standing by the fire. she says she can help. says she "
-"builds things."
+"the stranger is standing by the fire. she says she can help. says she builds "
+"things."
 msgstr "cizinka stojí u ohně. tvrdí, že může pomoct. prý je stavitelka."
 
 #: script/room.js:617
@@ -1247,7 +1246,8 @@ msgid "a ragged stranger stumbles through the door and collapses in the corner"
 msgstr "potrhaná cizinka se propotácela dveřmi a svalila se v rohu na zem"
 
 #: script/room.js:778
-msgid "the stranger shivers, and mumbles quietly. her words are unintelligible."
+msgid ""
+"the stranger shivers, and mumbles quietly. her words are unintelligible."
 msgstr "cizinka se chvěje a tiše cosi mumlá. není jí rozumět."
 
 #: script/room.js:781
@@ -1317,8 +1317,8 @@ msgstr "vzlétnout"
 # investigate usage
 #: script/ship.js:90
 msgid ""
-"somewhere above the debris cloud, the wanderer fleet hovers. been on this"
-" rock too long."
+"somewhere above the debris cloud, the wanderer fleet hovers. been on this "
+"rock too long."
 msgstr ""
 "kdesi vysoko nad mraky, flotila vesmírných lodí rozráží zaprášenou "
 "atmosféru. už jsi na tomhle kusu kamene příliš dlouho."
@@ -1378,8 +1378,7 @@ msgstr "celkové skóre: {0}"
 
 #: script/space.js:474
 msgid ""
-"expanded story. alternate ending. behind the scenes commentary. get the "
-"app."
+"expanded story. alternate ending. behind the scenes commentary. get the app."
 msgstr ""
 "rozšířený příběh. alternativní konec. informace ze zákulisí. stáhněte si "
 "aplikaci."
@@ -1525,16 +1524,18 @@ msgid "the trees yield to dry grass. the yellowed brush rustles in the wind."
 msgstr "stromy ustupují suché trávě. povadlý keřík šustí ve větru."
 
 #: script/world.js:573
-msgid "the trees are gone. parched earth and blowing dust are poor replacements."
-msgstr "stromy jsou pryč. vyprahlá země a prach ve vzduchu jsou špatná náhrada."
+msgid ""
+"the trees are gone. parched earth and blowing dust are poor replacements."
+msgstr ""
+"stromy jsou pryč. vyprahlá země a prach ve vzduchu jsou špatná náhrada."
 
 #: script/world.js:580
 msgid ""
-"trees loom on the horizon. grasses gradually yield to a forest floor of "
-"dry branches and fallen leaves."
+"trees loom on the horizon. grasses gradually yield to a forest floor of dry "
+"branches and fallen leaves."
 msgstr ""
-"na horizontu se rýsují stromy. tráva pozvolně ustupuje lesnímu podloží ze"
-" suchých větví a popadaného listí."
+"na horizontu se rýsují stromy. tráva pozvolně ustupuje lesnímu podloží ze "
+"suchých větví a popadaného listí."
 
 #: script/world.js:583
 msgid "the grasses thin. soon, only dust remains."
@@ -1766,9 +1767,9 @@ msgstr "vesničané oběsili zloděje před skladem."
 
 #: script/events/global.js:33
 msgid ""
-"the point is made. in the next few days, the missing supplies are "
-"returned."
-msgstr "zpráva je jasná a srozumitelná. za pár dní jsou ukradené zásoby navráceny."
+"the point is made. in the next few days, the missing supplies are returned."
+msgstr ""
+"zpráva je jasná a srozumitelná. za pár dní jsou ukradené zásoby navráceny."
 
 #: script/events/global.js:49
 msgid "the man says he's grateful. says he won't come around any more."
@@ -1784,8 +1785,8 @@ msgstr "Penrose"
 
 #: script/events/marketing.js:14
 msgid ""
-"a strange thrumming, pounding and crashing. visions of people and places,"
-" of a huge machine and twisting curves."
+"a strange thrumming, pounding and crashing. visions of people and places, of "
+"a huge machine and twisting curves."
 msgstr ""
 "podivné hučení, bouchání a praskání. vize lidí a míst, obřího stroje a "
 "zkroucených křivek."
@@ -2037,8 +2038,7 @@ msgstr "Nomád"
 
 #: script/events/room.js:13
 msgid ""
-"a nomad shuffles into view, laden with makeshift bags bound with rough "
-"twine."
+"a nomad shuffles into view, laden with makeshift bags bound with rough twine."
 msgstr "nomád se připlétá skrze dav. v provizorní nůši nese svázané klestí."
 
 #: script/events/room.js:14
@@ -2117,7 +2117,8 @@ msgid "go back inside"
 msgstr "jít zpět dovnitř"
 
 #: script/events/room.js:92
-msgid "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
+msgid ""
+"a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
 msgstr "na prahu leží svázané klestí zabalené v hrubé kožešině."
 
 #: script/events/room.js:93
@@ -2230,11 +2231,11 @@ msgstr "Záhadný tulák"
 
 #: script/events/room.js:330
 msgid ""
-"a wanderer arrives with an empty cart. says if he leaves with wood, he'll"
-" be back with more."
+"a wanderer arrives with an empty cart. says if he leaves with wood, he'll be "
+"back with more."
 msgstr ""
-"tulák dorazil s prázdným vozíkem. tvrdí, že pokud mu darujeme dřevo, "
-"vrátí se s více dřevem."
+"tulák dorazil s prázdným vozíkem. tvrdí, že pokud mu darujeme dřevo, vrátí "
+"se s více dřevem."
 
 #: script/events/room.js:331
 msgid "builder's not sure he's to be trusted."
@@ -2258,11 +2259,11 @@ msgstr "záhadný tulák se vrátil s vozíkem plným dřeva."
 
 #: script/events/room.js:410
 msgid ""
-"a wanderer arrives with an empty cart. says if she leaves with furs, "
-"she'll be back with more."
+"a wanderer arrives with an empty cart. says if she leaves with furs, she'll "
+"be back with more."
 msgstr ""
-"tulačka dorazila s prázdným vozíkem. tvrdí, že pokud jí darujeme "
-"kožešiny, vrátí se později a přiveze jich více."
+"tulačka dorazila s prázdným vozíkem. tvrdí, že pokud jí darujeme kožešiny, "
+"vrátí se později a přiveze jich více."
 
 #: script/events/room.js:411
 msgid "builder's not sure she's to be trusted."
@@ -2603,8 +2604,8 @@ msgstr "malé předměstí s rozpadajícími se domy."
 
 #: script/events/setpieces.js:530
 msgid ""
-"broken streetlights stand, rusting. light hasn't graced this place in a "
-"long time."
+"broken streetlights stand, rusting. light hasn't graced this place in a long "
+"time."
 msgstr ""
 "poničené zrezavělé pouliční osvětlení. světlo zde nezazářilo již velmi "
 "dlouho."
@@ -2713,7 +2714,8 @@ msgid "a fight, maybe."
 msgstr "možná souboj."
 
 #: script/events/setpieces.js:952
-msgid "a small basket of food is hidden under a park bench, with a note attached."
+msgid ""
+"a small basket of food is hidden under a park bench, with a note attached."
 msgstr ""
 "malý košík s jídlem je schovaný pod lavičkou v parku. je na něm připnutá "
 "poznámka."
@@ -2748,8 +2750,8 @@ msgstr "byla by škoda nechat přijít to, co zanechal, vniveč."
 
 #: script/events/setpieces.js:1131
 msgid ""
-"beneath the wanderer's rags, clutched in one of its many hands, a glint "
-"of steel."
+"beneath the wanderer's rags, clutched in one of its many hands, a glint of "
+"steel."
 msgstr "pod tulákovými cáry se mu v ruce leskne kus oceli."
 
 #: script/events/setpieces.js:1132
@@ -2786,17 +2788,15 @@ msgstr "Zničené město"
 
 #: script/events/setpieces.js:1247
 msgid ""
-"a battered highway sign stands guard at the entrance to this once-great "
-"city."
+"a battered highway sign stands guard at the entrance to this once-great city."
 msgstr "otlučená značka střeží vjezd do tohoto, kdysi mocného, města."
 
 #: script/events/setpieces.js:1248
 msgid ""
-"the towers that haven't crumbled jut from the landscape like the ribcage "
-"of some ancient beast."
+"the towers that haven't crumbled jut from the landscape like the ribcage of "
+"some ancient beast."
 msgstr ""
-"věže, které se nezhroutily, trčí z krajiny jako žebra prehistorické "
-"nestvůry."
+"věže, které se nezhroutily, trčí z krajiny jako žebra prehistorické nestvůry."
 
 #: script/events/setpieces.js:1249
 msgid "might be things worth having still inside."
@@ -3089,8 +3089,8 @@ msgstr "malá vojenská základna je dobře zásobena."
 
 #: script/events/setpieces.js:2454
 msgid ""
-"arms and munitions, relics from the war, are neatly arranged on the "
-"store-room floor."
+"arms and munitions, relics from the war, are neatly arranged on the store-"
+"room floor."
 msgstr ""
 "zbraně a munice, coby relikvie války, jsou úhledně rozloženy po podlaze "
 "zbrojnice."
@@ -3117,8 +3117,7 @@ msgstr "malá osada je v plamenech očividně už nějakou chvíli."
 
 #: script/events/setpieces.js:2531
 msgid ""
-"the bodies of the wanderers that lived here are still visible in the "
-"flames."
+"the bodies of the wanderers that lived here are still visible in the flames."
 msgstr "těla bývalých osadníků se občas objevují v plamenech."
 
 #: script/events/setpieces.js:2532
@@ -3126,8 +3125,10 @@ msgid "still time to rescue a few supplies."
 msgstr "pořád je čas zachránit pár zásob."
 
 #: script/events/setpieces.js:2566
-msgid "the remaining settlers flee from the violence, their belongings forgotten."
-msgstr "zbylí osadníci prchli před násilím, ponechavše za sebou většinu majetku."
+msgid ""
+"the remaining settlers flee from the violence, their belongings forgotten."
+msgstr ""
+"zbylí osadníci prchli před násilím, ponechavše za sebou většinu majetku."
 
 #: script/events/setpieces.js:2567
 msgid "there's not much, but some useful things can still be found."
@@ -3243,10 +3244,10 @@ msgid "a battle was fought here, long ago."
 msgstr "kdysi dávno zde proběhla velká bitva."
 
 #: script/events/setpieces.js:3062
-msgid "battered technology from both sides lays dormant on the blasted landscape."
+msgid ""
+"battered technology from both sides lays dormant on the blasted landscape."
 msgstr ""
-"pomlácené vybavení obou stran se nehybně povaluje po rozbombardované "
-"krajině."
+"pomlácené vybavení obou stran se nehybně povaluje po rozbombardované krajině."
 
 #: script/events/setpieces.js:3111
 msgid "A Huge Borehole"
@@ -3271,7 +3272,8 @@ msgid "A Crashed Ship"
 msgstr "Havarovaná Loď"
 
 #: script/events/setpieces.js:3150
-msgid "the familiar curves of a wanderer vessel rise up out of the dust and ash. "
+msgid ""
+"the familiar curves of a wanderer vessel rise up out of the dust and ash. "
 msgstr "povědomý tvar vesmírného plavidla se tyčí nad prach a popel. "
 
 #: script/events/setpieces.js:3151
@@ -3375,8 +3377,7 @@ msgstr "Železorudný Důl"
 #: script/events/setpieces.js:3462
 msgid "an old iron mine sits here, tools abandoned and left to rust."
 msgstr ""
-"před tebou se rozkládá starý železorudný důl obklopený rezavějícími "
-"nástroji."
+"před tebou se rozkládá starý železorudný důl obklopený rezavějícími nástroji."
 
 #: script/events/setpieces.js:3463
 msgid ""
@@ -3439,4 +3440,3 @@ msgstr "zralá pro sklizeň."
 
 #~ msgid "use with laser rifle"
 #~ msgstr "použít s laserovou puškou"
-
