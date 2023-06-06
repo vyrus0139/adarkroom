@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-29 06:39+0100\n"
-"PO-Revision-Date: 2023-06-06 15:47-0700\n"
+"PO-Revision-Date: 2023-06-06 16:04-0700\n"
 "Last-Translator: 0.438596 <0.438596>\n"
 "Language-Team: Cyrus\n"
 "Language: en\n"
@@ -1305,7 +1305,7 @@ msgstr "reinforce strength"
 
 #: script/ship.js:59
 msgid "upgrade engine"
-msgstr "infuse with magi"
+msgstr "infuse with magic"
 
 #: script/ship.js:68 script/ship.js:144
 msgid "lift off"
