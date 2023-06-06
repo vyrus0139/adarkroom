@@ -2,22 +2,22 @@
 # Copyright (C) 2021 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
+# 0.438596 <0.438596>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-29 06:39+0100\n"
-"PO-Revision-Date: 2023-03-22 08:11-0700\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en_CY\n"
+"PO-Revision-Date: 2023-06-06 15:47-0700\n"
+"Last-Translator: 0.438596 <0.438596>\n"
+"Language-Team: Cyrus\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.9.1\n"
-"X-Generator: Poedit 3.2.2\n"
 
 #: script/dropbox.js:62
 msgid "Dropbox connection"
@@ -573,7 +573,7 @@ msgstr "hold person"
 
 #: script/localization.js:26
 msgid "bayonet"
-msgstr "dagger"
+msgstr "dragonlance"
 
 #: script/localization.js:27 script/outside.js:46
 msgid "charcutier"
@@ -934,7 +934,7 @@ msgstr "the dwarf says there are more nomads. he says they'll work, too."
 #: script/room.js:48
 msgid "builder puts up a hut, out in the forest. says word will get around."
 msgstr ""
-"the dwarf puts up a hut, out in the forest. he says word will get around."
+"the dwarf puts up a hut, out in the forest. She says word will get around."
 
 #: script/room.js:49
 msgid "no more room for huts."
@@ -987,7 +987,8 @@ msgstr "smokehouse"
 msgid ""
 "should cure the meat, or it'll spoil. builder says she can fix something up."
 msgstr ""
-"should cure the meat, or it'll spoil. the dwarf says he can fix something up."
+"should cure the meat, or it'll spoil. the dwarf says he can fix something "
+"up."
 
 #: script/room.js:110
 msgid "builder finishes the smokehouse. she looks hungry."
@@ -1166,7 +1167,7 @@ msgid ""
 "the stranger is standing by the fire. she says she can help. says she builds "
 "things."
 msgstr ""
-"the dwarf is standing by the fire. she says she can help. says she builds "
+"the dwarf is standing by the fire. he says he can help. says he builds "
 "things."
 
 #: script/room.js:617
@@ -1304,7 +1305,7 @@ msgstr "reinforce strength"
 
 #: script/ship.js:59
 msgid "upgrade engine"
-msgstr "infuse with energy"
+msgstr "infuse with magi"
 
 #: script/ship.js:68 script/ship.js:144
 msgid "lift off"
@@ -1328,7 +1329,9 @@ msgstr "Ready to Leave?"
 
 #: script/ship.js:140
 msgid "time to get out of this place. won't be coming back."
-msgstr "time to fly away of this place. won't be coming back."
+msgstr ""
+"the ancient dragon awakens. wings outreached it looks down at you. waiting. "
+"won't be returning."
 
 #: script/ship.js:152
 msgid "linger"
@@ -1374,7 +1377,11 @@ msgstr "total score: {0}"
 msgid ""
 "expanded story. alternate ending. behind the scenes commentary. get the app."
 msgstr ""
-"expanded story. alternate ending. behind the scenes commentary. get the app."
+"This game was created by Doublespeak Games. I remixed the script into a dnd "
+"themed adventure for laura. ;)\n"
+"\n"
+"Laura, you awaken my soul and cause my heart to fly. I'm so excited to start "
+"this lifelong adventure with you!"
 
 #: script/space.js:483
 msgid "iOS."
@@ -2315,7 +2322,7 @@ msgstr "The Elder"
 
 #: script/events/room.js:533
 msgid "an old wanderer arrives."
-msgstr "an old loxodont arrives."
+msgstr "an old loxodon arrives."
 
 #: script/events/room.js:534
 msgid "he smiles warmly and asks for lodgings for the night."
@@ -2323,7 +2330,7 @@ msgstr "he smiles warmly and asks for a cup of tea and lodgings for the night."
 
 #: script/events/room.js:536
 msgid "an old wanderer arrives"
-msgstr "an old loxodont arrives"
+msgstr "an old loxodon arrives"
 
 #: script/events/room.js:540
 msgid "agree"
@@ -2436,7 +2443,7 @@ msgstr "deep in the swamp is a moss-covered cabin."
 
 #: script/events/setpieces.js:57
 msgid "an old wanderer sits inside, in a seeming trance."
-msgstr "an old loxodont sits inside, in a seeming trance."
+msgstr "an old loxodon sits inside, in a seeming trance."
 
 #: script/events/setpieces.js:62
 msgid "talk"
@@ -2444,7 +2451,7 @@ msgstr "talk"
 
 #: script/events/setpieces.js:73
 msgid "the wanderer takes the charm and nods slowly."
-msgstr "the loxodont takes the charm and nods slowly."
+msgstr "the loxodon takes the charm and nods slowly."
 
 #: script/events/setpieces.js:74
 msgid "he speaks of once leading the great fleets to fresh worlds."
@@ -2606,8 +2613,8 @@ msgid ""
 "broken streetlights stand, rusting. light hasn't graced this place in a long "
 "time."
 msgstr ""
-"a broken monument half stands, half crumbling rusting. life hasn't graced "
-"this place in a long time."
+"a broken monument half stands, half crumbling. life hasn't graced this place "
+"in a long time."
 
 #: script/events/setpieces.js:532
 msgid "the town lies abandoned, its citizens long dead"
