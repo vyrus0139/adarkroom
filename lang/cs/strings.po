@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-29 06:39+0100\n"
-"PO-Revision-Date: 2023-06-06 15:00-0700\n"
+"PO-Revision-Date: 2023-06-06 15:16-0700\n"
 "Last-Translator: 0.438596 <0.438596>\n"
 "Language-Team: Cyrus\n"
 "Language: en\n"
@@ -573,7 +573,7 @@ msgstr "hold person"
 
 #: script/localization.js:26
 msgid "bayonet"
-msgstr "dagger"
+msgstr "dragonlance"
 
 #: script/localization.js:27 script/outside.js:46
 msgid "charcutier"
